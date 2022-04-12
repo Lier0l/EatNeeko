@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatNeeko
 
 _🦌 网页小游戏 🥛_
 
@@ -12,13 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
-
-[鹿乃b站](https://space.bilibili.com/316381099)
-|
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+（测试）小游戏：吃掉小鸽子
 
 ## 可选功能
 
